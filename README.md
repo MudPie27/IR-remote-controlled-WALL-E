@@ -2,6 +2,8 @@
 
 A WALL-E inspired remote control robot with moving arms and a mechanical door in it's body. 
 
+<img src="Images/WALLE2.jpg">
+
 ### Hardware:
 - Arduino Uno R3
 - L293D motor driver
