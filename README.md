@@ -13,4 +13,4 @@ A WALL-E inspired remote control robot with moving arms and a mechanical door in
 
 ### Schematic diagram:
 
-<img href=Images/Schematic.png>
+<img href="Images/Schematic.png">
