@@ -9,3 +9,8 @@ A WALL-E inspired remote control robot with moving arms and a mechanical door in
 - Servos
 - Infrared reciever
 - Generic infrared remote
+
+
+### Schematic diagram:
+
+<img href=Images/Schematic.png>
