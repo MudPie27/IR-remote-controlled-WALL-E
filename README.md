@@ -14,6 +14,6 @@ BALL-D is the parody name I came up with.
 - Generic infrared remote
 
 
-### Schematic diagram:
+## Schematic diagram:
 
 <img src="Images/Schematic.png" width=800>
