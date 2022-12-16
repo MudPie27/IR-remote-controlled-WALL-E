@@ -1,6 +1,6 @@
 /*
 
-It look me a while to figure out how to use IR buttons
+It took me a while to figure out how to use IR buttons
 as push buttons (hold down for function, release to stop).
 Every key sends the same hex code when held down, which
 was a pain. The solution, simply put is to set a variable
