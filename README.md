@@ -1,7 +1,7 @@
 # Remote Control WALL-E
 
 A WALL-E inspired remote control robot with moving arms and a mechanical door in it's body.
-BALL-D is the parody name I came up with. 
+BALL-D is the parody name I came up with. Ignore my teacher in the background.
 
 <img src="Images/WALLE2.jpg" width=800> 
 
